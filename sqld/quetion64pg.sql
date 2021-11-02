@@ -1,4 +1,4 @@
-CREATE TABLE quetion64pg(`co1` INT ,`co2` INT, `co3` INT );
+CREATE TABLE quetion68pg(`co1` INT ,`co2` INT, `co3` INT );
 
 INSERT INTO quetion64pg  SET  `co1` = 1, `co2` = 2, `co3` = 3 ;
 INSERT INTO quetion64pg  SET  `co2` = 2, `co3` = 3 ;
